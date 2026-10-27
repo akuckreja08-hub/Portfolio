@@ -2,14 +2,14 @@
 
 An individual practical **Internal Assessment** project developed for the Computer Science & Engineering curriculum at JECRC University by **Anmol kuckreja**.
 
-- **Author**: anmol kuckreja
+- **Author**: Anmol Kuckreja
 - **College**: JECRC University, Jaipur, Rajasthan
 - **Degree**: B.Tech in Computer Science and Engineering (CSE Core)
 - **Current Year**: 2nd Year
 - **Expected Graduation**: 2029
 - **Email**: [akuckreja08@gmail.com](mailto:akuckreja08@gmail.com)
 - **GitHub Profile**: [https://github.com/akuckreja08-hub](https://github.com/akuckreja08-hub)
-- **Live Deployed Portfolio (Vercel)**: [https://personal-portfolio-iota-six-33.vercel.app](https://personal-portfolio-iota-six-33.vercel.app)
+- **Live Deployed Portfolio (Vercel)**: [https://portfolio123-delta-ten.vercel.app/](https://portfolio123-delta-ten.vercel.app/)
 - **Live Deployed Portfolio (GitHub Pages)**: [https://github.com/akuckreja08-hub](https://github.com/akuckreja08-hub/portfolio)
 
 ---
